@@ -12,13 +12,13 @@ Aim of the challenge is to detect and recognize clients involved in fraudulent a
 
 # Importance Of this Challenge
 
-1. Strengthened Fraud Prevention and Revenue Protection
+1. Strengthened Fraud Prevention and Revenue Protection:
 The machine learning algorithm analyzes transactional data to detect patterns indicative of fraud, ensuring legitimate transactions are processed smoothly. This proactive approach protects the company's revenue by intercepting fraudulent attempts before they cause harm.
 
-2. Boosted Customer Confidence and Satisfaction
+2. Boosted Customer Confidence and Satisfaction:
 Using advanced machine learning for fraud detection reassures customers that their financial information is secure, increasing their trust in the company. Higher customer satisfaction and loyalty lead to more repeat transactions and positive recommendations, driving revenue growth.
 
-3. Optimized Resource Allocation for Growth
+3. Optimized Resource Allocation for Growth:
 Automating fraud detection with machine learning reduces the costs associated with manual investigations and resolution. The savings can be reinvested into business growth initiatives, such as developing new products and expanding services, enhancing overall revenue generation.
 
 # Technologies used:
