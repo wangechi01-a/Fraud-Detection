@@ -23,7 +23,11 @@ Automating fraud detection with machine learning reduces the costs associated wi
 
 # Technologies used:
 
+Python: For data preprocessing, feature engineering, and building machine learning models.
 
+Machine Learning Models: Implementing algorithms in classification to predict fraud detection.
+
+Data Analysis: Utilizing tools like NumPy and Pandas for data manipulation and analysis(Visualization).
 
 
 
