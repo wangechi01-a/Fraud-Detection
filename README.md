@@ -25,7 +25,7 @@ Automating fraud detection with machine learning reduces the costs associated wi
 
 Python: For data preprocessing, feature engineering, and building machine learning models.
 
-Machine Learning Models: Implementing algorithms in classification to predict fraud detection.
+Machine Learning Models: Implementing algorithms in classification to detect and recognize clients involved in fraudulent activities.
 
 Data Analysis: Utilizing tools like NumPy and Pandas for data manipulation and analysis(Visualization).
 
