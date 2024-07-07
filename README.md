@@ -8,7 +8,7 @@ The Tunisian Company of Electricity and Gas (STEG) is a public and a non-adminis
 
 # Aim 
 
-Aim of the challenge is to detect and recognize clients involved in fraudulent activities.
+The aim of this challenge is to detect and recognize clients involved in fraudulent activities.
 
 # Importance Of this Challenge
 
