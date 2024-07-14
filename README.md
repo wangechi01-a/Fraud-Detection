@@ -1,6 +1,6 @@
 # Fraud-Detection
 
-# Title : Fraud Detection in Electricity and Gas Consumption 
+# Title : Fraud Detection in Electricity and Gas Consumption  
 
 # Description
 
